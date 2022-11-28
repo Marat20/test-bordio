@@ -33,10 +33,10 @@ const DropdownWrapper = styled.div`
 
 export const Dropdown = () => {
   return (
-      <DropdownWrapper>
-        <div>Board view</div>
-        <div>Table view</div>
-        <div>Kanban</div>
-      </DropdownWrapper>
+    <DropdownWrapper>
+      <div>Board view</div>
+      <div>Table view</div>
+      <div>Kanban</div>
+    </DropdownWrapper>
   );
 };

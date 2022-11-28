@@ -64,7 +64,7 @@ export const Tools = () => {
         </li>
         <li>
           <ChoosenList>
-          <BlueLine></BlueLine>
+            <BlueLine></BlueLine>
             <IconCalendar /> Schedule
           </ChoosenList>
         </li>

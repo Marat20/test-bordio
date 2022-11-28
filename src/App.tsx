@@ -7,7 +7,7 @@ const Wrapper = styled.div`
   display: grid;
   grid-template-columns: 219px 154px 1537px;
   height: 100vh;
-`
+`;
 
 export const App = () => {
   return (

@@ -14,7 +14,7 @@ export const Main = () => {
       {columns.map((column, idx) => (
         <Column key={idx} {...column} />
       ))}
-      <LastColumn/>
+      <LastColumn />
     </WrapperGrid>
   );
 };

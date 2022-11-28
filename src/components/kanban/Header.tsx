@@ -64,13 +64,6 @@ const RightWrapper = styled.div`
   }
 `;
 
-const ProfileWrapper = styled.div`
-  padding-left: 16px;
-  width: 22px;
-  height: 22px;
-  background-image: url('../../media/profileLogo.png');
-`;
-
 const searchStyle = {
   width: '180px',
   height: '40px',
@@ -108,9 +101,6 @@ export const Header = () => {
           </li>
           <li>
             <IconNotification />
-          </li>
-          <li>
-            <ProfileWrapper></ProfileWrapper>
           </li>
         </ul>
       </RightWrapper>

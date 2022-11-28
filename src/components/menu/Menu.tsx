@@ -13,7 +13,6 @@ const searchStyle = {
 const MenuWrapper = styled.nav`
   background-color: #0f1d40;
   color: #fff;
-  // heigth: 100vh;
 `;
 
 const LogoWrapper = styled.div`
@@ -38,7 +37,6 @@ const ProfileWrapper = styled.div`
   padding-left: 16px;
   width: 22px;
   height: 22px;
-  background-image: url('../../media/profileLogo.png');
 `;
 
 export const Menu = () => {

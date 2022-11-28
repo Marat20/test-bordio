@@ -31,7 +31,6 @@ export const Search: FC<Props> = ({ styles }) => {
   return (
     <div>
       <Input {...styles} type='text' placeholder='Search...' />
-      {/* <IconSearch /> */}
     </div>
   );
 };
